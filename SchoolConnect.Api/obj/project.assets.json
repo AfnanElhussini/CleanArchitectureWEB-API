@@ -538,11 +538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Api\\SchoolConnect.Api.csproj",
+      "projectUniqueName": "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Api\\SchoolConnect.Api.csproj",
       "projectName": "SchoolConnect.Api",
-      "projectPath": "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Api\\SchoolConnect.Api.csproj",
+      "projectPath": "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Api\\SchoolConnect.Api.csproj",
       "packagesPath": "C:\\Users\\afnan\\.nuget\\packages\\",
-      "outputPath": "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Api\\obj\\",
+      "outputPath": "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\afnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -559,8 +559,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Core\\SchoolConnect.Core.csproj": {
-              "projectPath": "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Core\\SchoolConnect.Core.csproj"
+            "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Core\\SchoolConnect.Core.csproj": {
+              "projectPath": "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Core\\SchoolConnect.Core.csproj"
             }
           }
         }

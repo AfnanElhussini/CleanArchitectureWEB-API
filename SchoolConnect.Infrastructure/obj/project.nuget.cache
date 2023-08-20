@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WU6wjK9Rm/uO4uGIje8sx1IzguDdaDnU2uragezdCB5qn2wy0SBwGbFpAEUnRzOdjR3v9NksedzAU0Tb2SkhiA==",
+  "dgSpecHash": "p0Twjauh4O8PNbfXJJP/+VuX8jmfGFvH6HpX1dBLKJZXIdhugX1JzYxGfw9Y+Ov+J3/1TojuN3kf9Q8TAetewQ==",
   "success": true,
-  "projectFilePath": "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Infrastructure\\SchoolConnect.Infrastructure.csproj",
+  "projectFilePath": "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Infrastructure\\SchoolConnect.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

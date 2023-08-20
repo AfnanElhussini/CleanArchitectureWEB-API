@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Core\\SchoolConnect.Core.csproj",
+      "projectUniqueName": "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Core\\SchoolConnect.Core.csproj",
       "projectName": "SchoolConnect.Core",
-      "projectPath": "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Core\\SchoolConnect.Core.csproj",
+      "projectPath": "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Core\\SchoolConnect.Core.csproj",
       "packagesPath": "C:\\Users\\afnan\\.nuget\\packages\\",
-      "outputPath": "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Core\\obj\\",
+      "outputPath": "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\afnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,14 +92,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Data\\SchoolConnect.Data.csproj": {
-              "projectPath": "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Data\\SchoolConnect.Data.csproj"
+            "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Data\\SchoolConnect.Data.csproj": {
+              "projectPath": "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Data\\SchoolConnect.Data.csproj"
             },
-            "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Infrastructure\\SchoolConnect.Infrastructure.csproj": {
-              "projectPath": "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Infrastructure\\SchoolConnect.Infrastructure.csproj"
+            "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Infrastructure\\SchoolConnect.Infrastructure.csproj": {
+              "projectPath": "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Infrastructure\\SchoolConnect.Infrastructure.csproj"
             },
-            "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Services\\SchoolConnect.Services.csproj": {
-              "projectPath": "D:\\_Augest\\EmployeeTrackerApi\\SchoolConnectCleanArchitecture\\SchoolConnect.Services\\SchoolConnect.Services.csproj"
+            "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Services\\SchoolConnect.Services.csproj": {
+              "projectPath": "D:\\_Augest\\SchoolConnectCleanArchitecture\\SchoolConnect.Services\\SchoolConnect.Services.csproj"
             }
           }
         }

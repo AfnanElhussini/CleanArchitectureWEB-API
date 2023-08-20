@@ -15,4 +15,8 @@
     <ProjectReference Include="..\SchoolConnect.Core\SchoolConnect.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>
