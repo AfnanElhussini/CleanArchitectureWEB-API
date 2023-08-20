@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SchoolConnect.Data\SchoolConnect.Data.csproj" />
+    <ProjectReference Include="..\SchoolConnect.Infrastructure\SchoolConnect.Infrastructure.csproj" />
+    <ProjectReference Include="..\SchoolConnect.Services\SchoolConnect.Services.csproj" />
+  </ItemGroup>
+
+</Project>
