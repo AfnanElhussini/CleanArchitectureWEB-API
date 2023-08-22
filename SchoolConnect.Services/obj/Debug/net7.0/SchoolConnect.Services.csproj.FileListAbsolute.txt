@@ -1,0 +1,17 @@
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\obj\Debug\net7.0\SchoolConnect.Services.csproj.AssemblyReference.cache
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\obj\Debug\net7.0\SchoolConnect.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\obj\Debug\net7.0\SchoolConnect.Services.AssemblyInfoInputs.cache
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\obj\Debug\net7.0\SchoolConnect.Services.AssemblyInfo.cs
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\obj\Debug\net7.0\SchoolConnect.Services.csproj.CoreCompileInputs.cache
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\bin\Debug\net7.0\SchoolConnect.Services.deps.json
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\bin\Debug\net7.0\SchoolConnect.Services.dll
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\bin\Debug\net7.0\SchoolConnect.Services.pdb
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\bin\Debug\net7.0\SchoolConnect.Data.dll
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\bin\Debug\net7.0\SchoolConnect.Infrastructure.dll
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\bin\Debug\net7.0\SchoolConnect.Data.pdb
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\bin\Debug\net7.0\SchoolConnect.Infrastructure.pdb
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\obj\Debug\net7.0\SchoolConnect.Services.csproj.CopyComplete
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\obj\Debug\net7.0\SchoolConnect.Services.dll
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\obj\Debug\net7.0\refint\SchoolConnect.Services.dll
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\obj\Debug\net7.0\SchoolConnect.Services.pdb
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Services\obj\Debug\net7.0\ref\SchoolConnect.Services.dll

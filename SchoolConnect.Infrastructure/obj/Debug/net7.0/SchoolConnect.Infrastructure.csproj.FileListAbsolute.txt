@@ -1,0 +1,17 @@
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\obj\Debug\net7.0\SchoolConnect.Infrastructure.csproj.AssemblyReference.cache
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\obj\Debug\net7.0\SchoolConnect.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\obj\Debug\net7.0\SchoolConnect.Infrastructure.AssemblyInfoInputs.cache
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\obj\Debug\net7.0\SchoolConnect.Infrastructure.AssemblyInfo.cs
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\obj\Debug\net7.0\SchoolConnect.Infrastructure.csproj.CoreCompileInputs.cache
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\bin\Debug\net7.0\SchoolConnect.Infrastructure.deps.json
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\bin\Debug\net7.0\SchoolConnect.Infrastructure.runtimeconfig.json
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\bin\Debug\net7.0\SchoolConnect.Infrastructure.dll
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\bin\Debug\net7.0\SchoolConnect.Infrastructure.pdb
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\bin\Debug\net7.0\SchoolConnect.Data.dll
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\bin\Debug\net7.0\SchoolConnect.Data.pdb
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\obj\Debug\net7.0\SchoolConnect.Infrastructure.csproj.CopyComplete
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\obj\Debug\net7.0\SchoolConnect.Infrastructure.dll
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\obj\Debug\net7.0\refint\SchoolConnect.Infrastructure.dll
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\obj\Debug\net7.0\SchoolConnect.Infrastructure.pdb
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\obj\Debug\net7.0\SchoolConnect.Infrastructure.genruntimeconfig.cache
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Infrastructure\obj\Debug\net7.0\ref\SchoolConnect.Infrastructure.dll

@@ -1,0 +1,12 @@
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Data\bin\Debug\net7.0\SchoolConnect.Data.deps.json
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Data\bin\Debug\net7.0\SchoolConnect.Data.dll
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Data\bin\Debug\net7.0\SchoolConnect.Data.pdb
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Data\obj\Debug\net7.0\SchoolConnect.Data.csproj.AssemblyReference.cache
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Data\obj\Debug\net7.0\SchoolConnect.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Data\obj\Debug\net7.0\SchoolConnect.Data.AssemblyInfoInputs.cache
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Data\obj\Debug\net7.0\SchoolConnect.Data.AssemblyInfo.cs
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Data\obj\Debug\net7.0\SchoolConnect.Data.csproj.CoreCompileInputs.cache
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Data\obj\Debug\net7.0\SchoolConnect.Data.dll
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Data\obj\Debug\net7.0\refint\SchoolConnect.Data.dll
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Data\obj\Debug\net7.0\SchoolConnect.Data.pdb
+D:\_Augest\SchoolConnectCleanArchitecture\SchoolConnect.Data\obj\Debug\net7.0\ref\SchoolConnect.Data.dll

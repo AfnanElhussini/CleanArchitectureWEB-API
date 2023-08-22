@@ -11,7 +11,7 @@ namespace SchoolConnect.Data.Entities
     public class Student
     {
         [Key]
-        public int StudentID { get; set; }
+        public int StudID { get; set; }
         [StringLength(200)]
         public string Name { get; set; }
         [StringLength(500)]

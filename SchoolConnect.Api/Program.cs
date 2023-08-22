@@ -1,4 +1,7 @@
 
+using Microsoft.EntityFrameworkCore;
+using SchoolConnect.Infrastructure.Data;
+
 namespace SchoolConnect.Api
 {
     public class Program
@@ -13,6 +16,7 @@ namespace SchoolConnect.Api
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddDbContext<ApplicationDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("SchoolConnectContext")));
 
             var app = builder.Build();
 
